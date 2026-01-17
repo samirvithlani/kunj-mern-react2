@@ -1,3 +1,7 @@
 routing...
 admin
 user
+
+npm install tailwindcss @tailwindcss/vite
+vite.config -->
+import in index.css
